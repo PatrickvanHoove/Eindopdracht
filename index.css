@@ -1,0 +1,28 @@
+body {
+ background-color:#ffe6b3;
+}
+
+.img1 {
+    display: block;
+    margin: auto;
+    width: 99%;
+    height: 150px; 
+    border: 4px solid black;	
+}
+
+.h1 {
+     text-align:center;
+     font-style:oblique; 
+     color:#00004d;
+     text-shadow:3px 3px 3px grey;
+}
+
+p {
+     font-family:Della Respira;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
